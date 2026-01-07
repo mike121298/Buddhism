@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Buddhism-v0.2";
+const cacheName = "DefaultCompany-Buddhism-v0.3";
 const contentToCache = [
     "Build/Buddhism.loader.js",
     "Build/Buddhism.framework.js",
